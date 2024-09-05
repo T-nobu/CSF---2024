@@ -10,7 +10,6 @@ class Dog:
 dawa = Dog("dawa", "brown", "12")
 nima = Dog("nima", "blue", "13")
 bruno = Dog("bruno", "white", "14")
-
 print(dawa.bark())
 print(nima.bark())
 print(bruno.bark())
